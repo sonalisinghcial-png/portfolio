@@ -2,7 +2,7 @@
 
 ### Automotive Engineer · Validation · HiL Testing · Functional Safety
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-4dc429?style=for-the-badge)](https://sonalisingh.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-4dc429?style=for-the-badge)](https://sonalisinghcial-png.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sonali-singh-116993130)
 [![Email](https://img.shields.io/badge/Email-Contact-D4880A?style=for-the-badge&logo=gmail)](mailto:sonalisinghcial@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=for-the-badge)]()
